@@ -348,7 +348,7 @@ Console-Record-Management-System/
 - **Course:** MCA Semester I
 - **Subject:** Python Programming & Relational Database
 - **Assignment:** Assignment 1 - Mini Project
-- **Repository Link:** YOUR_GITHUB_REPOSITORY_URL
+- **Repository Link:** https://github.com/mathur458/console-management-system
 
 ## Screenshots
 
