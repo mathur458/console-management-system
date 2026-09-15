@@ -357,25 +357,32 @@ Console-Record-Management-System/
 ![Main Menu](screenshots/main_menu.png)
 
 - Add Record
+  
 ![Add Record](screenshots/add_record.png)
 
 - View Records
+  
 ![View Records](screenshots/view_records.png)
 
 - Search Record
+  
 ![Search Record](screenshots/search_records.png)
 
 - Update Record
+  
 ![Update Record](screenshots/update_record.png)
 
 - Delete Record
+  
 ![Delete Record](screenshots/delete_record.png)
 
 - Invalid input handling
+  
 ![Invalid Email](screenshots/invalid_email.png)
 ![No Record Found](screenshots/unknown_record.png)
 
 - Exit Console
+  
 ![Exit Console](screenshots/exit_console.png)
 
 ## Assignment Requirements
