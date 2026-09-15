@@ -353,6 +353,7 @@ Console-Record-Management-System/
 ## Screenshots
 
 - Main menu
+  
 ![Main Menu](screenshots/main_menu.png)
 
 - Add Record
