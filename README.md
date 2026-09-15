@@ -353,38 +353,29 @@ Console-Record-Management-System/
 ## Screenshots
 
 - Main menu
-```markdown
 ![Main Menu](screenshots/main_menu.png)
-```
+
 - Add Record
-```markdown
 ![Add Record](screenshots/add_record.png)
-```
+
 - View Records
-```markdown
 ![View Records](screenshots/view_records.png)
-```
+
 - Search Record
-```markdown
 ![Search Record](screenshots/search_records.png)
-```
+
 - Update Record
-```markdown
 ![Update Record](screenshots/update_record.png)
-```
+
 - Delete Record
-```markdown
 ![Delete Record](screenshots/delete_record.png)
-```
+
 - Invalid input handling
-```markdown
 ![Invalid Email](screenshots/invalid_email.png)
 ![No Record Found](screenshots/unknown_record.png)
-```
+
 - Exit Console
-```markdown
 ![Exit Console](screenshots/exit_console.png)
-```
 
 ## Assignment Requirements
 
