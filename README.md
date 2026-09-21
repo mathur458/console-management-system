@@ -341,15 +341,6 @@ Console-Record-Management-System/
     `-- exit_console.png
 ```
 
-## GitHub Repository Details
-
-- **Repository Name:** Console-Record-Management-System
-- **Author:** Deeya Mathur
-- **Course:** MCA Semester I
-- **Subject:** Python Programming & Relational Database
-- **Assignment:** Assignment 1 - Mini Project
-- **Repository Link:** https://github.com/mathur458/console-management-system
-
 ## Screenshots
 
 - Main menu
@@ -385,7 +376,7 @@ Console-Record-Management-System/
   
 ![Exit Console](screenshots/exit_console.png)
 
-## Assignment Requirements
+## Requirements
 
 | Requirement              | Implementation                              |
 |---------------------------|----------------------------------------------|
